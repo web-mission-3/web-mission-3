@@ -1,12 +1,19 @@
 **Часть 0**
+
 [Database](https://supabase.com/dashboard/project/yqoalglytywaxdfociwd)
+
 **Часть 1**
+
 [BuildShip](https://buildship.app/remix/8c7234ca-f8dd-489c-9d46-3ab210e8f8a6)
 [EndPoint](https://6om791.buildship.run/mission31)
+
 **Часть 2**
+
 [BuildShip](https://buildship.app/remix/ff587de0-0a7d-40d6-9725-227146aa851f)
 [EndPoint](https://6om791.buildship.run/mission32)
+
 **Часть 4**
+
 **Запрос 1**
 ```sql
 select *
